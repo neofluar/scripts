@@ -33,6 +33,3 @@ while i < 10:
         imageFile.close()
 
 print('The last date was', d, '\nDone.')
-    
-    
-    
